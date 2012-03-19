@@ -1,6 +1,6 @@
 #find files in folder
-src = 'C:/www/ruby_tests/js'
-dest = 'C:/www/ruby_tests/dest'
+src = 'C:/www/Ruby-Scripts/js'
+dest = 'C:/www/Ruby-Scripts/dest'
 puts "Source Folder: #{src}"
 puts "Destination Folder: #{dest}"
 
